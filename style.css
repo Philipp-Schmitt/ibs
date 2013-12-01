@@ -4,10 +4,7 @@
 	padding: 0;
 }
 
-html {
-	height: 100%;
-	width: 100%;
-}
+
 body {
 	height: 100%;
 	width: 100%;
@@ -19,6 +16,7 @@ body {
 }
 h1 {
 	color: blue;
+
 }
 p {
 	text-align: left;
@@ -26,7 +24,7 @@ p {
 }
 
 table {
-	width: 90%;
+	width: 50%;
 	margin: 0em auto;
 	margin-bottom: 100px;
 	background: gray;
@@ -63,5 +61,9 @@ margin-top:3px;
     height: 40px;
     width: 100%;
     background: black;
-    
+}
+#Header{
+	
+		background-color: #00a693;
+	
 }
