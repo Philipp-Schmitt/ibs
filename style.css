@@ -14,7 +14,7 @@ body {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 1em;
 	line-height: 1.5;
-	color: light-blue;
+	color: blue;
 }
 h1 {
 	margin: 1.3em auto;
@@ -41,7 +41,7 @@ table, #header {
 	max-width: 1000px;
 	margin: 0em auto;
 	margin-bottom: 100px;
-	background: grey;
+	background: gray;
 	text-align: center;
 	empty-cells: hide;
 	border: 2px solid black;
