@@ -24,20 +24,9 @@ p {
 	text-align: left;
 	margin-bottom: 1.2em;
 }
-.footer {
-	text-align: center;
-}
-.nowrap {
-	white-space: nowrap;
-}
 
-
-.w3c-button {
-	margin: 50px;
-}
-table, #header {
+table {
 	width: 90%;
-	max-width: 1000px;
 	margin: 0em auto;
 	margin-bottom: 100px;
 	background: gray;
