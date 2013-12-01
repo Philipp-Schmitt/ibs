@@ -45,15 +45,7 @@ th {
 	background: white;
 	font-weight: bold;
 }
-caption {
-	font-size: 2.4em;
-	font-weight: bold;
-	background: white;
-	text-align: center;
-	padding: 20px;
-	margin: 2em auto;
-	border: 4px solid black;
-}
+
 code {
 	font-size: 1em;
 }
