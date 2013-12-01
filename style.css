@@ -18,7 +18,7 @@ body {
 	color: black;
 }
 h1 {
-	color: black;
+	color: blue;
 }
 p {
 	text-align: left;
@@ -53,8 +53,6 @@ thead {
 	margin-bottom: 50px;
 }
 .validator{
-	width:81px;
-	height:33px;
 margin-top:3px;
 	}
 
