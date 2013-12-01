@@ -71,7 +71,10 @@ code {
 thead {
 	margin-bottom: 50px;
 }
-
+#validator{
+	align:center;
+	
+}
 #footer {
 	width: 100%;
 	height: 15px;
