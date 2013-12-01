@@ -68,7 +68,7 @@ table, #header {
 	max-width: 1000px;
 	margin: 0em auto;
 	margin-bottom: 100px;
-	background: grey;
+	background: grey	d;
 	text-align: center;
 	border-spacing: 0.5em 1.5em;
 	empty-cells: hide;
