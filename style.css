@@ -53,6 +53,7 @@ thead {
 margin-top:3px;
 	}
 #websearch{
+	text-align:left;
 	float:left;
 	margin-right: 15px;
 	background-color:blue;
