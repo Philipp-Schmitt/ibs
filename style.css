@@ -52,13 +52,7 @@ thead {
 .validator{
 margin-top:3px;
 	}
-#websearch{
-	float:left;
-	
-	height:100%;
-	margin-right: 15px;
-	background-color:blue;
-}
+
 #footer {
 	position: fixed;
     text-align:center;
