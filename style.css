@@ -5,7 +5,7 @@
 }
 
 
-body {
+html, body {
 	height: 100%;
 	width: 100%;
 	background: #808080;
@@ -25,7 +25,6 @@ p {
 
 table {
 	width: 50%;
-	margin: 0em auto;
 	margin-bottom: 100px;
 	background: gray;
 	text-align: center;
@@ -55,8 +54,9 @@ margin-top:3px;
 	}
 #websearch{
 	float:left;
-	width: 300px;
+	
 	height:100%;
+	margin-right: 15px;
 	background-color:blue;
 }
 #footer {
